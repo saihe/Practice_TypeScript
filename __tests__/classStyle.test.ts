@@ -1,4 +1,4 @@
-import { MyClass } from "../src/main";
+import { MyClass } from "../src/classStyle.js";
 
 const myClass = new MyClass(1);
 
